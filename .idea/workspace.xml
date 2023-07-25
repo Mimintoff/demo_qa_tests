@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690206544084</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added build.gradle">
+      <created>1690284602244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690284602244</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,7 +227,8 @@
     <MESSAGE value="add gitignore" />
     <MESSAGE value="add build.gradle" />
     <MESSAGE value="addede build.gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="addede build.gradle" />
+    <MESSAGE value="added build.gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="added build.gradle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
