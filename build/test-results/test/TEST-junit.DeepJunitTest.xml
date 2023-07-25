@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.DeepJunitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-07-25T11:19:48" hostname="DESKTOP-LU6E8A0" time="0.011">
+  <properties/>
+  <testcase name="firstTest()" classname="junit.DeepJunitTest" time="0.01"/>
+  <testcase name="secondTest()" classname="junit.DeepJunitTest" time="0.001"/>
+  <system-out><![CDATA[Это метод @BeforeAll
+    Это метод @BeforeEach
+    Это тест
+    Это метод @AfterEach
+    Это метод @BeforeEach
+    Это тест
+    Это метод @AfterEach
+Это метод @AfterAll
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
